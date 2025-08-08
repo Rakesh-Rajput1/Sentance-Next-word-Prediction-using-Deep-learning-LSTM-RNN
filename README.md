@@ -19,3 +19,7 @@ We use LSTM layers because they are well-suited for sequence data and can captur
 - LSTM-based deep learning model architecture
 - Next word prediction function
 - Streamlit web app interface for interactive testing
+
+Live App Demo follow below link
+
+https://sentance-next-word-prediction-using-deep-learning-lstm-rnn-j6a.streamlit.app/
